@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1565208577 source:c:\users\ibrahim\desktop\c++\stackadt\mystackadt.cpp
+	"myStackAdt.h"
+
+1570693901 c:\users\ibrahim\desktop\c++\stackadt\mystackadt.h
+	"exception.h"
+
+1566214572 source:c:\users\ibrahim\desktop\c++\stackadt\main.cpp
+	<iostream>
+	"myStackAdt.h"
+	"exception.h"
+
+1566213879 c:\users\ibrahim\desktop\c++\stackadt\exception.h
+	<string>
+	<iostream>
+

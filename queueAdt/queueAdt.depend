@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1567106658 source:c:\users\ibrahim\desktop\c++\queueadt\queue.cpp
+
+1567109269 source:c:\users\ibrahim\desktop\c++\queueadt\main.cpp
+	<iostream>
+	"Queue.h"
+
+1567109427 c:\users\ibrahim\desktop\c++\queueadt\queue.h
+	<iostream>
+	"queueException.h"
+
+1567109339 c:\users\ibrahim\desktop\c++\queueadt\queueexception.h
+	<string>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1514140574 source:c:\users\ibrahim\desktop\c++\stackptr\main.cpp
+	<iostream>
+
+1566944521 source:c:\users\ibrahim\desktop\c++\stackptr\stackptr.cpp
+	"StackPtr.h"
+	"NodePtr.h"
+	<iostream>
+	<cassert>
+
+1567018579 c:\users\ibrahim\desktop\c++\stackptr\stackptr.h
+	"NodePtr.h"
+	<iostream>
+
+1567113114 c:\users\ibrahim\desktop\c++\stackptr\nodeptr.h
+	<iostream>
+

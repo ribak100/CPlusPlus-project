@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1567113292 source:c:\users\ibrahim\desktop\c++\queueptr\queueptr.cpp
+
+1567345937 source:c:\users\ibrahim\desktop\c++\queueptr\main.cpp
+	<iostream>
+	"QueuePtr.h"
+
+1567345972 c:\users\ibrahim\desktop\c++\queueptr\queueptr.h
+	<iostream>
+	"QueueNode.h"
+
+1567114679 c:\users\ibrahim\desktop\c++\queueptr\queuenode.h
+
