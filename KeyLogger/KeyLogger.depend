@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1583535122 source:c:\users\ibrahim\desktop\c++\malware\keylogger\main.cpp
+	<windows.h>
+	<fstream>
+	<stdio.h>
+	<string>
+

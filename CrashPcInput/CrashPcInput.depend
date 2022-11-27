@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586985721 source:c:\users\ibrahim\desktop\c++\malware\crashpcinput\main.cpp
+	<iostream>
+	<windows.h>
+	<winuser.h>
+	<winable.h>
+	<stdlib.h>
+

@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1619956037 source:c:\users\ibrahim\desktop\c++\malware\competetorsdatabase\main.cpp
+	<iostream>
+	<conio.h>
+	<ctype.h>
+	<direct.h>
+	<process.h>
+	<windows.h>
+	<string.h>
+	<stdio.h>
+	<fstream>
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<time.h>
+	<tchar.h>
+	"student.h"
+	"staff.h"
+	"myresult.h"
+	"fee.h"
+	"encryption.h"
+
+1570574386 c:\users\ibrahim\desktop\c++\malware\competetorsdatabase\student.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1570794240 c:\users\ibrahim\desktop\c++\malware\competetorsdatabase\staff.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1570751006 c:\users\ibrahim\desktop\c++\malware\competetorsdatabase\myresult.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1570550805 c:\users\ibrahim\desktop\c++\malware\competetorsdatabase\fee.h
+	<iostream>
+	<fstream>
+	<iostream>
+	<sstream>
+	<string>
+	<iterator>
+	<vector>
+	<iomanip>
+
+1615162558 c:\users\ibrahim\desktop\c++\malware\competetorsdatabase\encryption.h
+	<iostream>
+	<string>
+
