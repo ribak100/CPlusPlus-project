@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1565985250 source:c:\users\ibrahim\desktop\c++\quaraticeqn\main.cpp
+	<iostream>
+	"math.h"
+	"myStackAdt.h"
+
+1565984832 c:\users\ibrahim\desktop\c++\quaraticeqn\mystackadt.h
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567427739 source:c:\users\ibrahim\desktop\c++\balancedbrace\main.cpp
+	<iostream>
+	"StackPtr.h"
+
+1567378803 c:\users\ibrahim\desktop\c++\balancedbrace\stackptr.h
+	"NodePtr.h"
+	<iostream>
+
+1567113114 c:\users\ibrahim\desktop\c++\balancedbrace\nodeptr.h
+	<iostream>
+

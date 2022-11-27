@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1567378652 source:c:\users\ibrahim\desktop\c++\displaybackward\main.cpp
+	<iostream>
+	"StackPtr.h"
+
+1567378803 c:\users\ibrahim\desktop\c++\displaybackward\stackptr.h
+	"NodePtr.h"
+	<iostream>
+
+1567113114 c:\users\ibrahim\desktop\c++\displaybackward\nodeptr.h
+	<iostream>
+

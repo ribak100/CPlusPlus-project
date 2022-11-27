@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1567633821 source:c:\users\ibrahim\desktop\c++\palindromesstackqueue\main.cpp
+	<iostream>
+	"windows.h"
+	"StackPtr.h"
+	"QueuePtr.h"
+	<string>
+
+1567018579 c:\users\ibrahim\desktop\c++\palindromesstackqueue\stackptr.h
+	"NodePtr.h"
+	<iostream>
+
+1567113114 c:\users\ibrahim\desktop\c++\palindromesstackqueue\nodeptr.h
+	<iostream>
+
+1567375263 c:\users\ibrahim\desktop\c++\palindromesstackqueue\queueptr.h
+	<iostream>
+	"QueueNode.h"
+
+1567114679 c:\users\ibrahim\desktop\c++\palindromesstackqueue\queuenode.h
+

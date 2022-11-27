@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1567672652 source:c:\users\ibrahim\desktop\c++\readandcorrect\main.cpp
+	"StackPtr.h"
+	"QueuePtr.h"
+	"windows.h"
+	"NodePtr.h"
+	<iostream>
+	<cassert>
+
+1567428202 c:\users\ibrahim\desktop\c++\readandcorrect\stackptr.h
+	"NodePtr.h"
+	<iostream>
+
+1567294230 c:\users\ibrahim\desktop\c++\readandcorrect\nodeptr.h
+	<iostream>
+
+1567345972 c:\users\ibrahim\desktop\c++\readandcorrect\queueptr.h
+	<iostream>
+	"QueueNode.h"
+
+1567114679 c:\users\ibrahim\desktop\c++\readandcorrect\queuenode.h
+
